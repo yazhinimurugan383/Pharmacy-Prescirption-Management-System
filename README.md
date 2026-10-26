@@ -2,8 +2,8 @@
 
 **Name:** Yazhini M
 **Roll No:** 717825I261
-**Department:** B.E. CSE
-**Subject:** OOPS with Java - Assignment II
+**Department:** B.Tech AIDS
+**Subject:** Java Programming
 
 ### Problem Statement (As per Assignment II)
 Develop a console-based Pharmacy Management System in Java using Eclipse IDE that demonstrates OOPS concepts.
@@ -16,13 +16,18 @@ Develop a console-based Pharmacy Management System in Java using Eclipse IDE tha
 5. Use Separate Classes.
 
 ### Project Structure
-Single file implementation: PharmacyManagementSystem.java contains all classes (Medicine, Customer, Pharmacist, Prescription, Sale etc.) - demonstrates OOPS.
+Single file implementation: PharmacyManagementSystem.java contains all classes (Medicine, Customer, Pharmacist, Prescription, Sale etc.) - demonstrates OOPS concepts like Encapsulation, Inheritance.
 
-### How to Run
-Eclipse: File > New > Java Project > Paste PharmacyManagementSystem.java > Run As Java Application. Requires JDK 17+.
+### How to Compile and Run (Eclipse IDE)
+1. File > New > Java Project > PharmacyManagementSystem
+2. Paste PharmacyManagementSystem.java in src
+3. Right-click > Run As > Java Application
+Requires JDK 17+
 
 ### Execution Output
-Sale Bill shows [REGULATED] [Rx] flag, Total Amount, Updated Stock, Expiry block, Insufficient stock validation.
+- Menu & Customer Addition
+- Sale Bill with [REGULATED] [Rx] flag + Updated Stock
+- Expiry Warning & Validation (Insufficient Stock, Invalid Prescription)
 
 ---
-*Developed by Yazhini M - 717825I261*
+*Developed by Yazhini M - 717825I261 - B.Tech AIDS*
